@@ -1,5 +1,5 @@
-# IOS_proj2
-Project #2 for VUT FIT - IOS (Operating Systems)
+# IVH-project-subtasks
+Subtasks of Project for VUT FIT - IVH (VHDL Seminar)
 ## Evaluation
 ### Subtask #1
 10/10 pts
