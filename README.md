@@ -1,5 +1,5 @@
 # IVH-project-subtasks
-Subtasks of Project for VUT FIT - IVH (VHDL Seminar)
+Subtasks of Project for VUT FIT - IVH (VHDL Seminar) 2020/21
 ## Evaluation
 ### Subtask #1
 10/10 pts
