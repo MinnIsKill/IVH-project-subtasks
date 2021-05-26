@@ -6,7 +6,7 @@ Subtasks of Project for VUT FIT - IVH (VHDL Seminar)
 ### Subtash #2
 10/10 pts
 ### Subtask #3
-19/25 pts (points taken away for code quality, I'm posting a cleaner version)
+19/25 pts (points taken away for code quality (I'm posting a cleaner version), and for insufficient description of used constants)
 ## Project Description
 Check the pdf included in the repository.
 ## Disclaimer
